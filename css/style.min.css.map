@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/Users/randall/workspace/projects-code/www.pineman.co",
+	"sourceRoot": "/Users/randall/workspace/projects-code/MyBlog",
 	"sources": [
 		"themes/DoIt/assets/css/style.scss",
 		"themes/DoIt/assets/css/_variables.scss",
