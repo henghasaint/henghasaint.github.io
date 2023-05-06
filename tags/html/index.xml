@@ -5,11 +5,11 @@
         <description>HTML - Tag - PineMan</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.pineman.co/tags/html/" rel="self" type="application/rss+xml" /><item>
     <title>Basic Markdown Syntax</title>
-    <link>https://www.pineman.co/basic-markdown-syntax/</link>
+    <link>https://www.pineman.co/%E5%9B%BD%E5%86%85%E5%BC%80%E9%80%9Achat-gpt-plus%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B%E5%85%B8%E8%97%8F/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate><author>
-                        <name>PineMan</name><uri>https://www.pineman.co</uri></author><guid>https://www.pineman.co/basic-markdown-syntax/</guid>
+                        <name>PineMan</name><uri>https://www.pineman.co</uri></author><guid>https://www.pineman.co/%E5%9B%BD%E5%86%85%E5%BC%80%E9%80%9Achat-gpt-plus%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B%E5%85%B8%E8%97%8F/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/basic-markdown-syntax/featured-image.webp" referrerpolicy="no-referrer">
+                <img src="featured-image.webp" referrerpolicy="no-referrer">
             </div><p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
 </item></channel>
 </rss>
